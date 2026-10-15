@@ -1,0 +1,25 @@
+
+# Raw and processed data
+data/raw/
+data/processed/
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment and temporary files
+.env
+.venv/
+__pycache__/
+*.pyc
+
+# Operating system files
+.DS_Store
+Thumbs.db
+# Excel source data
+*.xls
+*.xlsx
+
+# Power BI temporary/backup files
+*.bak
